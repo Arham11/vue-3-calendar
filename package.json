@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "sass-loader": "^10.1.0",
     "vue": "^3.0.0"
   },
   "devDependencies": {
@@ -18,7 +19,22 @@
     "@vue/compiler-sfc": "^3.0.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^7.0.0-0"
+    "eslint-plugin-vue": "^7.0.0-0",
+    "postcss": "^8.1.1",
+    "postcss-calc": "^7.0.3",
+    "postcss-color-function": "^4.1.0",
+    "postcss-discard-comments": "^4.0.2",
+    "postcss-discard-empty": "^4.0.1",
+    "postcss-discard-unused": "^4.0.1",
+    "postcss-each": "^0.10.0",
+    "postcss-extend-rule": "^3.0.0",
+    "postcss-import": "^12.0.1",
+    "postcss-mixins": "^6.2.3",
+    "postcss-nested": "^4.2.1",
+    "postcss-rem": "^1.1.5",
+    "postcss-simple-vars": "^5.0.2",
+    "postcss-sort-media-queries": "^1.7.26",
+    "postcss-url": "^8.0.0"
   },
   "eslintConfig": {
     "root": true,
